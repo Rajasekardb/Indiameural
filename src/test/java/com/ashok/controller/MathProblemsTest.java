@@ -8,7 +8,7 @@ public class MathProblemsTest {
 	@Test
 	public void Addition() {
 		MathProblems test = new MathProblems();
-		Assert.assertEquals("Expected value: 2", 2, test.addition(1, 1));
+		Assert.assertEquals("Expected value: 3", 3, test.addition(2, 1));
 	}
 	
 	@Test
