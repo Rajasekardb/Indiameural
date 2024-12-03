@@ -4,7 +4,7 @@
 	<groupId>com.web.mvc.apps</groupId>
 	<artifactId>SpringFormApp</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>3.10.1</version>
 	<name>SpringMVCFormApp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
@@ -48,5 +48,6 @@
 	       </configuration>
 		</plugin>
 		</plugins>
+		
 	</build>
 </project>
